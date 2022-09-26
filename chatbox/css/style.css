@@ -1,0 +1,25 @@
+.btn {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+}
+
+.collapse {
+    position: fixed;
+    width: 30%;
+    bottom: 3.5rem;
+    right: 1rem;
+}
+
+
+.calander {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.order {
+    border: 1px solid black;
+    margin: 1rem 0;
+    padding: 1rem;
+}
